@@ -1,4 +1,5 @@
 # Open Source GNU Octave Fluent Design icons
+
 Optimized for resolutions multiple of 8x8:
 
 ![document-open](https://user-images.githubusercontent.com/31783838/154281405-37f79e8a-4532-4c37-9fb1-6faa713d635e.png)
@@ -40,3 +41,8 @@ Optimized for resolutions multiple of 24x24:
 ![figure-rotate](https://user-images.githubusercontent.com/31783838/164348776-96874960-a23f-4669-83ce-04f4106653dd.png)
 ![figure-pan](https://user-images.githubusercontent.com/31783838/164348749-c8842c27-8061-404c-82e3-f2946c46b939.png)
 ![figure-text](https://user-images.githubusercontent.com/31783838/164348805-10c9874e-30ef-4d45-ac28-3b8ac37b058d.png)
+
+
+License:
+
+Creative Commons Zero v1.0 Universal
