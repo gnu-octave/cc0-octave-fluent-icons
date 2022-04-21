@@ -1,4 +1,4 @@
-# Open Source Fluent Design icons
+# Open Source GNU Octave Fluent Design icons
 Optimized for resolutions multiple of 8x8:
 
 ![document-open](https://user-images.githubusercontent.com/31783838/154281405-37f79e8a-4532-4c37-9fb1-6faa713d635e.png)
