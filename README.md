@@ -29,7 +29,14 @@ Optimized for resolutions multiple of 8x8:
 ![db-cont](https://user-images.githubusercontent.com/31783838/164294305-80701848-2c30-4e39-8098-cbbba54f088d.png)
 ![db-stop](https://user-images.githubusercontent.com/31783838/164294871-92d08ddc-e578-4f59-b86e-c0e83458889f.png)
 ![document-print](https://user-images.githubusercontent.com/31783838/164294821-c882fe00-db71-40cf-ae7c-42202bf9f03d.png)
+![go-home](https://user-images.githubusercontent.com/31783838/164348899-0e99f7bf-3f67-4dfe-8c9e-c7d6e3024400.png)
 
 Optimized for resolutions multiple of 24x24:
 
 ![document-new-24px](https://user-images.githubusercontent.com/31783838/154945332-8ccefbda-3e5e-49a2-8a71-dab253d96213.png) ![edit-copy-24px](https://user-images.githubusercontent.com/31783838/154945343-d0186c42-b187-4abf-b65a-a2d6c4182f43.png) ![edit-paste-24px](https://user-images.githubusercontent.com/31783838/154945361-440ed7d2-ebc4-4df3-ba83-f31cdb699d71.png) ![edit-find-24px](https://user-images.githubusercontent.com/31783838/154945368-93813f5d-5657-47e4-851a-3a941d07af3d.png) ![edit-find-replace-24px](https://user-images.githubusercontent.com/31783838/154945380-90947a41-191a-46fe-8239-78d09416432f.png) ![bookmark-new-24px](https://user-images.githubusercontent.com/31783838/154945395-7cc8d16d-2df4-4b0d-8ca6-fe85e4afa06d.png) ![edit-cut](https://user-images.githubusercontent.com/31783838/164294715-18b1f665-45db-4595-8720-a7d4fb90cc83.png) ![plot-xy-curve](https://user-images.githubusercontent.com/31783838/164294722-b86eec2e-ce8b-41b1-b22f-19aba9853249.png)
+
+![figure-axes](https://user-images.githubusercontent.com/31783838/164348713-2a400e57-20d3-4f73-96a4-65d78cd6623f.png)
+![figure-grid](https://user-images.githubusercontent.com/31783838/164348730-e457682b-09bd-4197-b6af-3e416160be9a.png)
+![figure-rotate](https://user-images.githubusercontent.com/31783838/164348776-96874960-a23f-4669-83ce-04f4106653dd.png)
+![figure-pan](https://user-images.githubusercontent.com/31783838/164348749-c8842c27-8061-404c-82e3-f2946c46b939.png)
+![figure-text](https://user-images.githubusercontent.com/31783838/164348805-10c9874e-30ef-4d45-ac28-3b8ac37b058d.png)
